@@ -1,0 +1,32 @@
+{
+  "info": {
+    "name": "江户川烟花",
+    "player": "小呆",
+    "career": 100,
+    "age": 28,
+    "avatar": "pl-1.jpg"
+  },
+  "attributes": {
+    "str": 50,
+    "con": 60,
+    "siz": 50,
+    "dex": 60,
+    "app": 70,
+    "int": 60,
+    "pow": 50,
+    "edu": 50,
+    "luc": 70,
+    "mov": 8
+  },
+  "status": {
+    "hp": {
+      "total": 11,
+      "now": 11
+    },
+    "san": {
+      "total": 99,
+      "now": 99,
+      "brain": "清醒"
+    }
+  }
+}

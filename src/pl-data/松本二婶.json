@@ -1,0 +1,32 @@
+{
+  "info": {
+    "name": "松本二婶",
+    "player": "Rock",
+    "career": 103,
+    "age": 34,
+    "avatar": "pl-4.jpg"
+  },
+  "attributes": {
+    "str": 50,
+    "con": 60,
+    "siz": 60,
+    "dex": 70,
+    "app": 40,
+    "int": 50,
+    "pow": 50,
+    "edu": 70,
+    "luc": 70,
+    "mov": 8
+  },
+  "status": {
+    "hp": {
+      "total": 12,
+      "now": 12
+    },
+    "san": {
+      "total": 99,
+      "now": 99,
+      "brain": "清醒"
+    }
+  }
+}

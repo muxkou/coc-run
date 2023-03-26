@@ -1,0 +1,32 @@
+{
+  "info": {
+    "name": "阿尼亚小星星",
+    "player": "LO",
+    "career": 114,
+    "age": 21,
+    "avatar": "pl-2.jpg"
+  },
+  "attributes": {
+    "str": 50,
+    "con": 50,
+    "siz": 40,
+    "dex": 60,
+    "app": 50,
+    "int": 75,
+    "pow": 65,
+    "edu": 70,
+    "luc": 60,
+    "mov": 9
+  },
+  "status": {
+    "hp": {
+      "total": 9,
+      "now": 9
+    },
+    "san": {
+      "total": 99,
+      "now": 99,
+      "brain": "清醒"
+    }
+  }
+}

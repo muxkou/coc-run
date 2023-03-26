@@ -1,0 +1,32 @@
+{
+  "info": {
+    "name": "伊藤悠雅",
+    "player": "Witty",
+    "career": 66,
+    "age": 33,
+    "avatar": "pl-5.jpg"
+  },
+  "attributes": {
+    "str": 40,
+    "con": 60,
+    "siz": 50,
+    "dex": 40,
+    "app": 80,
+    "int": 70,
+    "pow": 50,
+    "edu": 80,
+    "luc": 50,
+    "mov": 7
+  },
+  "status": {
+    "hp": {
+      "total": 12,
+      "now": 12
+    },
+    "san": {
+      "total": 99,
+      "now": 99,
+      "brain": "清醒"
+    }
+  }
+}
